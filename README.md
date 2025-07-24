@@ -1,4 +1,4 @@
-# Annual-Spending-Prediction-for-E-Commerce-Customers
+# Annual-Spending-for-E-Commerce-Customers
 
 ### what features from the dateset that has effect to the price that customer willing to paid more.
 
